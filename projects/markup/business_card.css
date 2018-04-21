@@ -1,0 +1,27 @@
+body {
+  background-color: #5fc9f1;
+}
+
+.wrapper {
+  width: 240px;
+  background-color: #2d3a67;
+  margin: 40px auto;
+  padding: 40px;
+  box-shadow: 80px 80px 100px -30px rgba(00, 00, 00, 0.3);
+}
+
+.name {
+  color: #5fc9f1;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.small {
+  color: white;
+  margin: 4px 0 0 0;
+}
+
+.image {
+  filter: brightness(0) invert(1);
+  margin: 0 0 20px 0;
+}
