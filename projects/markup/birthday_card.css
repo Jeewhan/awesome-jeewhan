@@ -1,0 +1,24 @@
+@import url("https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css");
+
+body {
+  background: url("https://pbs.twimg.com/media/DZSyC1fVwAA0xC6.jpg") no-repeat;
+  background-size: cover;
+
+  font-family: ‘NanumSquareRound’, sans-serif;
+}
+
+.card {
+  width: 300px;
+  background: white;
+
+  margin: 40px auto;
+  padding: 40px;
+
+  text-align: center;
+
+  box-shadow: 50px 50px 50px -50px black;
+}
+
+.from {
+  text-align: right;
+}
